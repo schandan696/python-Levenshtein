@@ -40,6 +40,16 @@ Installation
 
    pip install python-Levenshtein
 
+
+Example
+------------
+
+::
+
+   from Levenshtein import distance
+   edit_dist = distance("ah", "aho")
+
+
 Documentation
 --------------
 
